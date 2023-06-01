@@ -6,9 +6,13 @@ Es soll keine 100%-ige Erkennung von realen Kenntafeln möglich sein.
 
 Es wird die OpenCV Bibliothek verwendet.https://openCV.org
 
-Vorbereitende Arbeiten:
+Tip Gesichtserkennung mit openCV:
+https://www.youtube.com/watch?v=zwiKIzvGAhM  
 
-RP 4
+***********************
+Vorbereitende Arbeiten:
+***********************
+
 
 sudo apt update
 
