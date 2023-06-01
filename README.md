@@ -2,6 +2,8 @@
 
 Ziel dieses Projektes ist es mit einem RP 4 eine einfache Anwendung in Python zur Kennzeichenerkennung zu schreiben.
 
+Gearbeitet wird mit einem 
+
 Es soll keine 100%-ige Erkennung von realen Kenntafeln möglich sein. 
 
 Es wird die OpenCV Bibliothek verwendet.https://openCV.org
