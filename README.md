@@ -1,4 +1,5 @@
 # pyhton
+#test 28.02.2024
 
 Ziel dieses Projektes ist es mit einem RP 4 eine einfache Anwendung in Python zur Kennzeichenerkennung zu schreiben.
 
